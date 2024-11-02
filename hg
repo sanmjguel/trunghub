@@ -1,6 +1,6 @@
 Config = {
     namescript = "Trung Crazy Hub",--Tên Script
-    logoscript="113152608355080",--ID Logo Script
-    tacgia = "Nguyễn Khả Phi Trường-7A1-”.- Tên Tác Giả
+    logoscript="103092354494800",--ID Logo Script
+    tacgia = "Trường-7A1-”.- Tên Tác Giả
 }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))(
